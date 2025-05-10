@@ -38,5 +38,7 @@ cd handwritten-digit-recognition
 
 `README.md` : 📖 Project documentation and instructions.
 
+<br/>
+
 ## 📊 Results
 ✅ The model achieves over **98%** accuracy on the MNIST test set.
